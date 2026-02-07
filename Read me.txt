@@ -1,0 +1,47 @@
+Plastisphere-mediated modulations of nitrogen cycling amplifies nitrous oxide emissions from inland waters: A meta-analysis with bioinformatic insights
+
+
+The data is extracted from various papers. The papers are attached. 
+
+
+Units
+Depth: m
+Area: Km2
+Plastic size: μm
+Plastic concentration: mg/L
+pH: on pH scale, converted to [H+]
+Temperature: Degree Celsius
+Conductivity: μS/cm
+Salanity: PPT
+ORP: mV
+Other parameters: mg/L
+Dissolved N2O: nmol/L
+N2O Flux: μg N/g/h
+Genes: Functional Abundance
+
+
+Codes
+W = Wetlands
+PDS = Paddy soils
+RS = Reservoirs
+M = Mangroves
+PD = Ponds
+D = Ditches
+T = Treatment plants
+L = Lakes
+R =  Rivers
+RD = River drains
+FW =  Fresh water
+LS = Lab studies
+SS = supporting studies
+
+
+
+
+
+Corresponding author
+Kang Song 
+(sk@ihb.ac.cn), 
+State Key Laboratory of Lake and Watershed Science for Water Security, 
+Institute of Hydrobiology, Chinese Academy of Sciences, Wuhan 430072, China
+
